@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"3187c4af6fabdc5b","type":"file","file":"Unsorted/Assets/mainMenu.png","x":1216,"y":-137,"width":400,"height":225},
-		{"id":"1267b43e1aca6d3a","type":"file","file":"Unsorted/Assets/levelSelect.png","x":1216,"y":160,"width":400,"height":225},
-		{"id":"230c9d4665721c9d","type":"file","file":"Unsorted/Assets/settingsMenu.png","x":720,"y":-137,"width":400,"height":225},
-		{"id":"92e00d0635a6b9d1","type":"file","file":"Unsorted/Assets/creditsMenu.png","x":720,"y":160,"width":400,"height":225},
-		{"id":"234847b972f6aa07","type":"file","file":"Unsorted/Assets/skillTree.png","x":1706,"y":160,"width":400,"height":225},
-		{"id":"f666c06889bcc4e2","type":"file","file":"Unsorted/Assets/pauseMenu.png","x":1706,"y":-440,"width":400,"height":225},
-		{"id":"a337713576588652","x":1706,"y":-137,"width":400,"height":225,"type":"file","file":"Unsorted/Assets/HUD.png"}
+		{"id":"3187c4af6fabdc5b","type":"file","file":"z.images/mainMenu.png","x":1216,"y":-137,"width":400,"height":225},
+		{"id":"1267b43e1aca6d3a","type":"file","file":"z.images/levelSelect.png","x":1216,"y":160,"width":400,"height":225},
+		{"id":"230c9d4665721c9d","type":"file","file":"z.images/settingsMenu.png","x":720,"y":-137,"width":400,"height":225},
+		{"id":"92e00d0635a6b9d1","type":"file","file":"z.images/creditsMenu.png","x":720,"y":160,"width":400,"height":225},
+		{"id":"234847b972f6aa07","type":"file","file":"z.images/skillTree.png","x":1706,"y":160,"width":400,"height":225},
+		{"id":"f666c06889bcc4e2","type":"file","file":"z.images/pauseMenu.png","x":1706,"y":-440,"width":400,"height":225},
+		{"id":"a337713576588652","x":1706,"y":-137,"width":400,"height":225,"type":"file","file":"z.images/HUD.png"}
 	],
 	"edges":[]
 }

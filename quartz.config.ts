@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "rodentenergy.github.io/meowmeow",
-    ignorePatterns: ["private", "Templates", ".obsidian", "Unsorted"],
+    ignorePatterns: ["private", "Templates", ".obsidian", "Unsorted", "z.images"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -31,10 +31,10 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#FFD1D1",
-          darkgray: "#ebebeb",
-          dark: "#FFD1D1",
-          secondary: "#FFD1D1",
+          gray: "#e67575",
+          darkgray: "#262626",
+          dark: "#e67575",
+          secondary: "#e67575",
           tertiary: "#00b0f0",
           highlight: "rgba(255, 209, 209, 0.15)",
           textHighlight: "rgba(0, 176, 240, 0.15)",
