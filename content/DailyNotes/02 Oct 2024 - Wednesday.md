@@ -2,15 +2,15 @@
 - [x] Add individual assignment tasks to google calendar
 - [x] Rewrite today’s standup to be more concise
 - [ ] Summarize UI feedback in [[UI Mockups]]
-- [ ] Write down UI pipeline for future reference
+- [x] Write down UI pipeline for future reference
 - [x] Finalize UI placeholders
 - [x] Rename UI placeholders
 - [x] Export out UI placeholders
 - [ ] Convert UI to dds
 - [x] Add back the option to change the name standard in FixUI
 - [x] Rebuild FixUI with correct icon
-- [ ] Save this somewhere idk where [Right from the Hell. - Off the Beaten Track](https://stepoffthebeatentrack.com/2019/06/08/right-from-the-hell-a-demon-in-the-decaying-mausoleum-poland/) 
-- [ ] Also this [The Abandoned Saint George's Church - Off the Beaten Track](https://stepoffthebeatentrack.com/2015/12/11/the-abandoned-saint-georges-church-lukova-czech-republic/)
+- [x] Save this somewhere idk where [Right from the Hell. - Off the Beaten Track](https://stepoffthebeatentrack.com/2019/06/08/right-from-the-hell-a-demon-in-the-decaying-mausoleum-poland/) 
+- [x] Also this [The Abandoned Saint George's Church - Off the Beaten Track](https://stepoffthebeatentrack.com/2015/12/11/the-abandoned-saint-georges-church-lukova-czech-republic/)
 # Standup Today
 - Eftersom jag inte vill manuellt göra alla UI element till power of 2 manuellt igen detta projektet så har jag i helg gjort en bat fil som med hjälp ett python script convertar pngs/targas till dds, men också paddar dem till närmaste power of 2 och ger dem rätt prefix, suffix och namnstandard. 
 - Testade det i model viewern med ddser som jag manuellt converterat och använt dds convertern som redan finns till för att make sure att det funkade rätt.

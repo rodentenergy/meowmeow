@@ -1,3 +1,9 @@
+---
+tags:
+  - UI
+  - Resources
+---
+
 # Google Sheets - Group Planning
 
 | 40                             | 41                                                        | 42                             | 43                                                        | 44                                                       | 45                                                        | 46                             | 47                                                            | 48                                                                                          | 49                                                                                          |
@@ -29,7 +35,7 @@
        - ~~Health Bar Enemies~~
        - ~~Health Bar Boss~~
        - ~~Dialogue Box~~
-### UI Mockups (Focus on trying as many different things as possible and iterate on that next week.) = 12h
+### UI Mockups = 12h
    - ~~**First Draft Menus** = 3h~~										
       - ~~Main Menu~~
    - UI Mockups Menus = 2h
