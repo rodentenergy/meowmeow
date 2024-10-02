@@ -2,5 +2,5 @@
 title: Meowmeow
 ---
 
-Yay! :)ay! :)
+Yay! :)
 

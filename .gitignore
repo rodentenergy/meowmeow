@@ -8,5 +8,6 @@ tsconfig.tsbuildinfo
 .quartz-cache
 private/
 Unsorted/
+DailyNotes/
 .replit
 replit.nix

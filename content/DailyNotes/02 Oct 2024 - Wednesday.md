@@ -1,7 +1,7 @@
 # To Do Today :3
 - [x] Add individual assignment tasks to google calendar
 - [x] Rewrite today’s standup to be more concise
-- [ ] Summarize UI feedback in [[UI mockups]]
+- [ ] Summarize UI feedback in [[UI Mockups]]
 - [ ] Write down UI pipeline for future reference
 - [x] Finalize UI placeholders
 - [x] Rename UI placeholders
