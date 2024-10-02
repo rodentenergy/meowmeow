@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Meowmeow
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+```dataview
+LIST
+FROM "SP6"
+```
+```dataview
+LIST
+FROM "DailyNotes"
+```
