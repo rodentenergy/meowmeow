@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "rodentenergy.github.io/meowmeow",
-    ignorePatterns: ["private", "templates", ".obsidian", "Unsorted"],
+    ignorePatterns: ["private", "Templates", ".obsidian", "Unsorted"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
