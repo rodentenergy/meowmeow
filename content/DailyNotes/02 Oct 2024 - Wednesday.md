@@ -18,7 +18,6 @@
 - Gjorde lite mockups/explorations av UI igår och hade också ett super super snabbt UI möte.
 - Idag ska jag summera feedbacken jag fick igår och sedan finalize alla UI placeholders.
 # Standup Tomorrow
-- Summarized feedback from tuesday.
-- Wrote down UI pipeline for future reference by myself.
-- Fixed UI placeholders.
-- So today I’m going to export all of those and then continue on the UI mockups.
+- Fixade alla UI placeholders förutom Health Bar.
+- Idag ska jag göra den och sen exportera ut alla UI placeholders så det är klart.
+- Ska summera feedbacken från tisdag och iterera på den också.
