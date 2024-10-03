@@ -33,7 +33,7 @@ Everything <font color="#00b0f0">in blue</font> is a requirement and necessary t
 - Game Logo
 - <font color="#00b0f0">Mouse Pointer</font>
 # Questions about assetlist
-- **Is it ok? Is there anything missing? For example, tutorial windows or something showing the controls?
+- **Is it ok? Is there anything missing? For example, tutorial windows or something showing the controls?**
 
 
 <hr>
