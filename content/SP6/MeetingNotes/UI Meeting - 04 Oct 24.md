@@ -4,11 +4,6 @@ tags:
   - Meeting
 ---
 
-# General question
-- **Are we fine with Spite: Web of Decay being the game name?**
-
-
-
 # Assetlist
 Everything <font color="#00b0f0">in blue</font> is a requirement and necessary to pass.
 #### Screens
@@ -17,6 +12,7 @@ Everything <font color="#00b0f0">in blue</font> is a requirement and necessary t
 - <font color="#00b0f0">Level Select Menu</font>
 - <font color="#00b0f0">Pause Menu</font>
 - <font color="#00b0f0">Credits</font>
+- Skill Tree (4 abilities & 2 basic attacks - 2 upgrades for every ability/basic attack - total 12)
 #### HUD
 - <font color="#00b0f0">Health/Skill Bar</font>
 	- <font color="#00b0f0">Basic Attack Icon 1</font> - Melee (With staff)
@@ -31,7 +27,6 @@ Everything <font color="#00b0f0">in blue</font> is a requirement and necessary t
 - <font color="#00b0f0">Enemy Health Bar</font>
 - <font color="#00b0f0">Boss Health Bar</font> (Segmented to show the boss fights has 3 phases)
 - Dialogue Box
-- Skill Tree (4 abilities & 2 basic attacks - 2 upgrades for every ability/basic attack - total 12)
 - <font color="#00b0f0">Ground marker to show where player is walking</font>
 #### UI Misc.
 - <font color="#00b0f0">Game Icon</font>
