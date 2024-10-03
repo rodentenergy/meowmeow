@@ -4,6 +4,11 @@ tags:
   - Meeting
 ---
 
+# General question
+- **Are we fine with Spite: Web of Decay being the game name?**
+
+
+
 # Assetlist
 Everything <font color="#00b0f0">in blue</font> is a requirement and necessary to pass.
 #### Screens
@@ -14,17 +19,19 @@ Everything <font color="#00b0f0">in blue</font> is a requirement and necessary t
 - <font color="#00b0f0">Credits</font>
 #### HUD
 - <font color="#00b0f0">Health/Skill Bar</font>
-- <font color="#00b0f0">Basic Attack 1</font> - Melee (With staff)
-- <font color="#00b0f0">Basic Attack 2</font> - Ranged (Blood lace)
-- <font color="#00b0f0">Ability Icon 1</font> - Ranged Bouncing (Frog bounces between 3 enemies)
-- <font color="#00b0f0">Ability Icon 2</font> - Shield Bubble (Active for 5 seconds)
-- <font color="#00b0f0">Ability Icon 3</font> - Ranged AOE (Affects area that's clicked, slows enemy, affects enemies for 3 seconds)
-- <font color="#00b0f0">Ability Icon 4</font> - Summon Minion (Sores behind the player's shoulder, attacks enemies within set range)
+	- <font color="#00b0f0">Basic Attack Icon 1</font> - Melee (With staff)
+	- <font color="#00b0f0">Basic Attack Icon 2</font> - Ranged (Blood lace)
+	- <font color="#00b0f0">Ability Icon 1</font> - Ranged Bouncing (Frog bounces between 3 enemies)
+	- <font color="#00b0f0">Ability Icon 2</font> - Shield Bubble (Active for 5 seconds)
+	- <font color="#00b0f0">Ability Icon 3</font> - Ranged AOE (Affects area that's clicked, slows enemy, affects enemies for 3 seconds)
+	- <font color="#00b0f0">Ability Icon 4</font> - Summon Minion (Sores behind the player's shoulder, attacks enemies within set range)
+	- XP bar?
+	- <font color="#00b0f0">Cooldown Indicator</font>
+	- Health + Mana Ball Shaders
 - <font color="#00b0f0">Enemy Health Bar</font>
 - <font color="#00b0f0">Boss Health Bar</font> (Segmented to show the boss fights has 3 phases)
 - Dialogue Box
 - Skill Tree (4 abilities & 2 basic attacks - 2 upgrades for every ability/basic attack - total 12)
-- Health + Mana(?) ball shaders?
 - <font color="#00b0f0">Ground marker to show where player is walking</font>
 #### UI Misc.
 - <font color="#00b0f0">Game Icon</font>
