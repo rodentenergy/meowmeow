@@ -50,8 +50,8 @@ tags:
 	   - Skill Tree Menu
 ### Week 40 Youtrack tasks = 12h 30m
 - ~~UI Menu placeholders = 2h~~
-- UI HUD placeholders = 2h
-- Export UI placeholders = 2h
+- ~~UI HUD placeholders = 2h~~
+- ~~Export UI placeholders = 2h~~
 - ~~First draft UI mockups Menus = 3h~~
 - UI mockups Menus = 2h
 - Iterate on UI mockups Menus = 1h 30m
@@ -83,8 +83,8 @@ tags:
 - Iterate on game logo mockups = 2h
 ## Sprint 1 Youtrack tasks = 28h 30m
 - ~~UI Menu placeholders = 2h~~
-- UI HUD placeholders = 2h
-- Export UI placeholders = 2h
+- ~~UI HUD placeholders = 2h~~
+- ~~Export UI placeholders = 2h~~
 - ~~First draft UI mockups Menus = 3h~~
 - UI mockups Menus = 2h
 - Iterate on UI mockups Menus = 1h 30m
