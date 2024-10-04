@@ -54,3 +54,4 @@ tags:
 	- Palettes specifically made for UI as well as a preview of a website using them, in JP.
 - [★ Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
 	- Color Palettes
+- [★ Game UX Resources for getting into the industry | Medium](https://medium.com/design-bootcamp/game-ux-resources-for-getting-into-the-industry-29350545017d)

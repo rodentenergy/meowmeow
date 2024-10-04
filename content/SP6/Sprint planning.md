@@ -22,8 +22,9 @@ tags:
        - ~~Level Select Menu~~
        - ~~Credits Menu~~
        - ~~Pause Menu~~
+       -  ~~Skill Tree Menu~~
    - **HUD**
-       - Health/Abilities Bar
+       - ~~Health/Abilities Bar~~
        - ~~Abilities/Basic Attack Icons~~
            - ~~Basic Attack Icon 1~~
            - ~~Basic Attack Icon 2~~
@@ -31,34 +32,32 @@ tags:
            - ~~Ability Icon 2~~
            - ~~Ability Icon 3~~
            - ~~Ability Icon 4~~
-       - ~~Skill Tree~~
        - ~~Health Bar Enemies~~
        - ~~Health Bar Boss~~
        - ~~Dialogue Box~~
-### UI Mockups = 12h
-   - ~~**First Draft Menus** = 3h~~										
+### UI Mockups = 6h 30m
+   - ~~First Draft Menus = 3h~~			
       - ~~Main Menu~~
    - UI Mockups Menus = 2h
 	   - Main Menu
 	   - Pause Menu
-   - Iterate on UI Mockups Menus = 4h
+   - Iterate on UI Mockups Menus = 1h 30m
 	   - Main Menu
 	   - Settings Menu
 	   - Level Select Menu
 	   - Credits Menu
 	   - Pause Menu
-   - Final pass on UI Mockups Menus for now = 3h
-### Week 40 Youtrack tasks = 18h
+	   - Skill Tree Menu
+### Week 40 Youtrack tasks = 12h 30m
 - ~~UI Menu placeholders = 2h~~
 - UI HUD placeholders = 2h
 - Export UI placeholders = 2h
 - ~~First draft UI mockups Menus = 3h~~
 - UI mockups Menus = 2h
-- Iterate on UI mockups Menus = 4h
-- Final pass on UI Mockups Menus for now = 3h
+- Iterate on UI mockups Menus = 1h 30m
 ## Week 41
 ### UI Mockups = 9h
-   - **First Draft HUD** = 3h
+   - First Draft HUD = 3h
        - Health/Abilities Bar
        - Abilities/Basic Attack Icons
            - Basic Attack Icon 1
@@ -67,7 +66,6 @@ tags:
            - Ability Icon 2
            - Ability Icon 3
            - Ability Icon 4
-       - Skill Tree
        - Health Bar Enemies
        - Health Bar Boss
        - Dialogue Box
@@ -83,14 +81,13 @@ tags:
 - Final pass on UI Mockups HUD for now = 1h
 - Game logo mockups = 4h
 - Iterate on game logo mockups = 2h
-## Sprint 1 Youtrack tasks = 34h
+## Sprint 1 Youtrack tasks = 28h 30m
 - ~~UI Menu placeholders = 2h~~
 - UI HUD placeholders = 2h
 - Export UI placeholders = 2h
 - ~~First draft UI mockups Menus = 3h~~
 - UI mockups Menus = 2h
-- Iterate on UI mockups Menus = 4h
-- Final pass on UI Mockups Menus for now = 3h
+- Iterate on UI mockups Menus = 1h 30m
 - First draft UI mockups HUD = 3h
 - UI mockups HUD = 2h
 - Iterate on UI mockups HUD = 4h
