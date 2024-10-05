@@ -7,7 +7,7 @@ Welcome, yay!! :3
 This is my personal wiki with things I want to access easily anywhere, and also stuff I want to share with others easily. Almost everything that isn’t meant to be explicitly shared is unfinished.
 
 Here’s the pages that’ll probably be most useful to other people:
-- [[FixUI Documentation]]
+- [[Pawcessor Documentation]]
 - [[UI Resources]]
 
 Here’s links to all the folders for navigation on mobile:

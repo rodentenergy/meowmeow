@@ -20,7 +20,7 @@ For example for the play button on the Main Menu. Group the text and button back
 # Convert to correct Size, Filetype and Name
 
 Drag folders containing what needs to be converted onto program. Profit B)
-Incase something doesn’t work or I forgot how check [[FixUI Documentation]]. 
+Incase something doesn’t work or I forgot how check [[Pawcessor Documentation]]. 
 
 <hr>
 
