@@ -15,7 +15,7 @@ I just realized I accidentally wrote 4 twice, that was not on purpose. Whoops, t
 
 <hr>
 
-## UI Feedback First Draft
+## UI Feedback - First Draft
 - Which mockups people like most:
 
 | Mockup | How many? |
@@ -23,7 +23,7 @@ I just realized I accidentally wrote 4 twice, that was not on purpose. Whoops, t
 | 1      | 2         |
 | 2      | 2         |
 | 3      | 3         |
-| 4      | 1         |
+| 5      | 1         |
 | 6      | 3         |
 ### Dexter Feedback
 #### Background/Feel
@@ -70,3 +70,9 @@ I just realized I accidentally wrote 4 twice, that was not on purpose. Whoops, t
 - Colors from <font color="#ffd1d1">number 1</font> and <font color="#ffd1d1">number 2</font>?
 - **Less corporate** and more handmade vibes.
 - Buttons right or center aligned.
+
+## UI Feedback - Iterate on first draft
+![[mockupSecondDraft.png]]
+<hr>
+
+- 

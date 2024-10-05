@@ -13,4 +13,4 @@ tags:
 
 ## [[UI Meeting - 04 Oct 24]]
 
-TLDR: 
+TLDR: Decided on **asset list**, discussed how to implement multiple features, decided who’s responsible for what, and decided to prioritize main menu, HUD, and enemy health bar.
