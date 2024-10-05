@@ -8,7 +8,7 @@ tags:
 Make all assets in Figma like usual, try to keep everything named for the most part. When done copy everything that needs to be exported to export file. Go through everything and do the following:
 - Delete things that do not need to be exported.
 - Group things that need to be exported as one PNG/TARGA.
-- Name things so they get the correct name when using FixUI. 
+- Name things so they get the correct name when using [[Pawcessor Documentation|Pawcessor]]. 
 - Add Export on Group or Component.
 - Select everything that’s going into the same folder.
 - Export!
