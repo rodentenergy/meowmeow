@@ -76,10 +76,10 @@ Let’s walkthrough converting a folder called “mainMenu” that has the follo
 
 First let open the program and drag our folder into the input field. Let’s also use the input folder as the output folder. Lastly, let’s keep the default name standard.
 
-![[Pasted image 20241006004431.png]]
+![[Pasted image 20241006015217.png]]
 
 If we press “Start processing images :3c”, we’ll get this folder which contains the following.
 
 ![[Pasted image 20241006004558.png]]
 
-![[Pasted image 20241006004616.png]]
+![[Pasted image 20241006015127.png]]
