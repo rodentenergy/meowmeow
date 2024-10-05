@@ -6,11 +6,11 @@ tags:
 ---
 # Download
 
-Can be downloaded here:
-(link to be added lol)
+Can be downloaded here: [Google Drive - Pawcessor](https://drive.google.com/file/d/10fwEzH8T-xvWQvdi47lhQWea5OYjujpz/view?usp=sharing)
 
 <hr>
 # How to use - TLDR
+
 - Drag and drop singular or multiple files/folders into field
 - Select an output folder or use the Input root folder
 - Customize name standard, prefix, and suffix as needed
