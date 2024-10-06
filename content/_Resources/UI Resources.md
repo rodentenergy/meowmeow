@@ -7,7 +7,7 @@ tags:
 
 # ★ Holy Grail ★
 - [WE CAN FIX IT IN UI](https://wcfiiui.notion.site/WE-CAN-FIX-IT-IN-UI-5f2712f7096643829b9b8ed14325d38c)
-	- So many resources related to UI/UX in games. It has sections for Books, Insights, Learning, Websites, Tools of the Trade, and also a ton of job related resources! Seriously, look through it if you’re even the tiniest bit interested in UI or UX.
+	- So many resources related to UI/UX in games. It has sections for Books, Insights, Learning, Websites, Tools of the Trade, and also a ton of job related resources! <font color="#ffd1d1">Seriously, look through it</font> if you’re even the tiniest bit interested in UI or UX.
 
 # Published Game UI & HUD Screenshots
 
@@ -34,7 +34,7 @@ tags:
 - [★ Noun Project](https://thenounproject.com/)
 	- Usually free with attribution or $40/year for commercial licenses. 
 - [Font Awesome](https://fontawesome.com/icons)
-	- Has 2k free icons, multiple plans ($49/year, $99/year, $499) unlocks 33.6 k icons.
+	- Has 2k free icons, multiple plans (yearly plans - $49, $99, $499) unlocks 33.6 k icons.
 - [★ Google Fonts](https://fonts.google.com/icons)
 	- All royalty free.
 - [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
