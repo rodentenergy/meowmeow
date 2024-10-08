@@ -75,4 +75,31 @@ I just realized I accidentally wrote 4 twice, that was not on purpose. Whoops, t
 ![[mockupSecondDraft.png]]
 <hr>
 
-- 
+- Which mockups people like most:
+
+| Mockup | How many? |
+| ------ | --------- |
+| 1      | -         |
+| 2      | 1         |
+| 3      | 2         |
+| 4      | 3         |
+- Continue with 4.
+# UI Mockup Menus - Color Palettes
+![[mockupSecondDraftColors.png]]
+ <hr>
+ 
+ Which color palette people like most:
+
+| Mockup | How many? |
+| ------ | --------- |
+| 1      | -         |
+| 2      | 5         |
+| 3      | 3         |
+| 4      | -         |
+| 5      | 3         |
+| 6      | 2         |
+- Go with 2, if it feels off try 3 or 5 instead :thumbsup:
+# UI Mockups Menus - Finished
+![[MockupsFinished 1.png]]
+<hr>
+

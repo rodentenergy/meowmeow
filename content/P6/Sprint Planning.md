@@ -38,16 +38,16 @@ tags:
 ### UI Mockups = 6h 30m
    - ~~First Draft Menus = 3h~~			
       - ~~Main Menu~~
-   - Iterate on UI Mockups Menus = 2h
-	   - Main Menu
+   - ~~Iterate on UI Mockups Menus = 2h~~
+	   - ~~Main Menu~~
 ### Week 40 Youtrack tasks = 13h
 - ~~UI Menu placeholders = 2h~~
 - ~~UI HUD placeholders = 2h~~
 - ~~Export UI placeholders = 2h~~
 - ~~First draft UI mockups Menus = 3h~~
-- Iterate on UI mockups Menus = 2h
+- ~~Iterate on UI mockups Menus = 2h~~
 ## Week 41
-### UI Mockups = 9h
+### UI Mockups = 10h
    - UI Mockups Menus = 3h
 	   - Main Menu
 	   - Settings Menu
@@ -73,8 +73,8 @@ tags:
    - Iterate on game logo mockups = 2h
 ### Week 41 Youtrack tasks = 16h
 - UI mockups Menus = 3h
-- First draft UI mockups HUD = 3h
-- Iterate on UI mockups HUD = 4h
+- First draft UI mockups HUD = 4h
+- Iterate on UI mockups HUD = 3h
 - Game logo mockups = 4h
 - Iterate on game logo mockups = 2h
 ## Sprint 1 Youtrack tasks = 29h
@@ -82,9 +82,9 @@ tags:
 - ~~UI HUD placeholders = 2h~~
 - ~~Export UI placeholders = 2h~~
 - ~~First draft UI mockups Menus = 3h~~
-- - Iterate on UI mockups Menus = 2h
+- ~~Iterate on UI mockups Menus = 2h~~
 - UI mockups Menus = 3h
-- First draft UI mockups HUD = 3h
-- Iterate on UI mockups HUD = 4h
+- First draft UI mockups HUD = 4h
+- Iterate on UI mockups HUD = 3h
 - Game logo mockups = 4h
 - Iterate on game logo mockups = 2h
