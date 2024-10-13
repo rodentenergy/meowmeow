@@ -9,6 +9,7 @@ This is my personal wiki with things I want to access easily anywhere, and also 
 Here’s the pages that’ll probably be most useful to other people:
 - [[Pawcessor Documentation]]
 - [[UI Resources]]
+- [[MISC. Resources]]
 
 Here’s links to all the folders for navigation on mobile:
 - <a href="/P6">Spite: Web of Decay - Main folder</a>
