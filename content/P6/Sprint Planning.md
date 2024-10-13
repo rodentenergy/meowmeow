@@ -48,33 +48,25 @@ tags:
 - ~~Iterate on UI mockups Menus = 2h~~
 ## Week 41
 ### UI Mockups = 10h
-   - UI Mockups Menus = 3h
-	   - Main Menu
-	   - Settings Menu
-	   - Level Select Menu
-	   - Credits Menu
-	   - Pause Menu
-	   - Skill Tree Menu
-   - UI Mockups HUD = 3h
-       - Health/Abilities Bar
-       - Abilities/Basic Attack Icons
-           - Basic Attack Icon 1
-           - Basic Attack Icon 2
-           - Ability Icon 1
-           - Ability Icon 2
-           - Ability Icon 3
-           - Ability Icon 4
-       - Health Bar Enemies
-       - Health Bar Boss
-       - Dialogue Box
-   - Iterate on UI Mockups HUD = 4h
+   - ~~UI Mockups Menus = 3h~~
+	   - ~~Main Menu~~
+	   - ~~Settings Menu~~
+	   - ~~Level Select Menu~~
+	   - ~~Credits Menu~~
+	   - ~~Pause Menu~~
+	   - ~~Skill Tree Menu~~
+   - ~~UI Mockups HUD = 3h~~
+       - ~~Health/Abilities Bar~~
+       - ~~Health Bar Boss~~
+       - ~~Dialogue Box~~
+   - ~~Iterate on UI Mockups HUD = 4h~~
 ### Game Logo Mockups = 6h
    - Game logo mockups = 4h
    - Iterate on game logo mockups = 2h
 ### Week 41 Youtrack tasks = 16h
-- UI mockups Menus = 3h
-- First draft UI mockups HUD = 4h
-- Iterate on UI mockups HUD = 3h
+- ~~UI mockups Menus = 3h~~
+- ~~First draft UI mockups HUD = 4h~~
+- ~~Iterate on UI mockups HUD = 3h~~
 - Game logo mockups = 4h
 - Iterate on game logo mockups = 2h
 ## Sprint 1 Youtrack tasks = 29h
@@ -83,8 +75,8 @@ tags:
 - ~~Export UI placeholders = 2h~~
 - ~~First draft UI mockups Menus = 3h~~
 - ~~Iterate on UI mockups Menus = 2h~~
-- UI mockups Menus = 3h
-- First draft UI mockups HUD = 4h
-- Iterate on UI mockups HUD = 3h
+- ~~UI mockups Menus = 3h~~
+- ~~First draft UI mockups HUD = 4h~~
+- ~~Iterate on UI mockups HUD = 3h~~
 - Game logo mockups = 4h
 - Iterate on game logo mockups = 2h

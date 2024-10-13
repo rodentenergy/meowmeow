@@ -35,10 +35,18 @@ tags:
 	- Usually free with attribution or $40/year for commercial licenses. 
 - [Font Awesome](https://fontawesome.com/icons)
 	- Has 2k free icons, multiple plans (yearly plans - $49, $99, $499) unlocks 33.6 k icons.
-- [★ Google Fonts](https://fonts.google.com/icons)
+- [Google Fonts](https://fonts.google.com/icons)
 	- All royalty free.
-- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+- [SVG Repo](https://www.svgrepo.com/)
 	- Open-licensed SVG Vectors and Icons.
+- [Iconoir](https://iconoir.com/)
+	- Free open source icons, ~1.6 k icons.
+- [Streamline Freebies](https://www.streamlinehq.com/freebies)
+	- Free with attribution, ~116 k icons.
+- [Iconduck](https://iconduck.com/)
+	- Free open source licenses vary, ~274 k icons
+- [MingCute Icon - Carefully Designed Icon Library](https://www.mingcute.com/)
+	- Open source, ~3 k icons.
 
 <hr>
 
@@ -55,3 +63,5 @@ tags:
 - [★ Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
 	- Color Palettes
 - [★ Game UX Resources for getting into the industry | Medium](https://medium.com/design-bootcamp/game-ux-resources-for-getting-into-the-industry-29350545017d)
+- [★ Toools.design – An archive of 1,500+ Design Resources](https://www.toools.design/)
+	- UI/Design resources. BEWARE: has a ton of AI hype blogposts and some AI resources but if you ignore that there’s a ton of good links.

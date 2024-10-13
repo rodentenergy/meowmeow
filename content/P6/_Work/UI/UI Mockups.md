@@ -93,13 +93,15 @@ I just realized I accidentally wrote 4 twice, that was not on purpose. Whoops, t
 | Mockup | How many? |
 | ------ | --------- |
 | 1      | -         |
-| 2      | 5         |
-| 3      | 3         |
-| 4      | -         |
-| 5      | 3         |
-| 6      | 2         |
-- Go with 2, if it feels off try 3 or 5 instead :thumbsup:
+| 2      | 8         |
+| 3      | 8         |
+| 4      | 2         |
+| 5      | 5         |
+| 6      | 3         |
+- Go with 3 but make it pop more.
 # UI Mockups Menus - Finished
-![[MockupsFinished 1.png]]
+![[MockupsFinished 2.png]]
 <hr>
 
+# UI Mockups HUD - First Draft
+![[HUDfirstDraft.png]]

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "meowmeow",
+    pageTitle: "rodentenergy!",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "rodentenergy.github.io/meowmeow",
+    baseUrl: "rodentenergy.com",
     ignorePatterns: ["private", "Templates", ".obsidian", "Unsorted", "DailyNotes"],
     defaultDateType: "modified",
     theme: {
@@ -29,12 +29,12 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#e67575",
-          darkgray: "#262626",
-          dark: "#e67575",
-          secondary: "#e67575",
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#FFD1D1",
+          darkgray: "#ebebeb",
+          dark: "#FFD1D1",
+          secondary: "#FFD1D1",
           tertiary: "#00b0f0",
           highlight: "rgba(255, 209, 209, 0.15)",
           textHighlight: "rgba(0, 176, 240, 0.15)",
