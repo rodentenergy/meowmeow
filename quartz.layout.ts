@@ -40,7 +40,7 @@ sortFn: (a, b) => {
   },
 })),
     Component.RecentNotes({
-      title: "Most recent note!!", limit: 1 
+      title: "Most recent notes!!", limit: 2 
     }),
   ],
   right: [
@@ -78,7 +78,7 @@ sortFn: (a, b) => {
   ],
   right: [
     Component.RecentNotes({
-      title: "Most recent note!!", limit: 1 
+      title: "Most recent notes!!", limit: 5 
     }),
   ],
 }
