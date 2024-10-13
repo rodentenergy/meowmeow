@@ -72,4 +72,7 @@ sortFn: (a, b) => {
   },
 })),
   ],
+  right: [
+    Component.Graph(),
+  ]
 }
