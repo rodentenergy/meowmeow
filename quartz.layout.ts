@@ -39,14 +39,10 @@ sortFn: (a, b) => {
     return !omit.has(node.name.toLowerCase())
   },
 })),
-    Component.RecentNotes({
-      title: "Most recent notes!!", limit: 2, showTags: false 
-    }),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 
@@ -75,10 +71,5 @@ sortFn: (a, b) => {
     return !omit.has(node.name.toLowerCase())
   },
 })),
-  ],
-  right: [
-    Component.RecentNotes({
-      title: "Most recent notes!!", limit: 5, showTags: false 
-    }),
   ],
 }
